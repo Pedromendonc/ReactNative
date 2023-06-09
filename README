@@ -1,0 +1,20 @@
+# Fatos sobre datas
+
+Veja fatos sobre datas aleatorias
+
+## Pré-requisitos
+
+-   Node.js (https://nodejs.org)
+-   Expo CLI (https://docs.expo.io/get-started/installation/)
+
+## Configuração do Projeto
+
+1. Baixe o projeto
+2. abra o terminal e execulte : npm install
+3. Execulte o projeto com: expo start
+
+## Exemplo de fatos 
+
+
+![fato](https://cdn.discordapp.com/attachments/428357701450596353/1116207760145657866/Screenshot_20230608-0022542.png)
+![fato](https://cdn.discordapp.com/attachments/428357701450596353/1116207760388915300/Screenshot_20230608-0023282.png)
